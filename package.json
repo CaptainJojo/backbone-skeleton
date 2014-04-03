@@ -1,0 +1,27 @@
+{
+  "name": "backbone-skeleton",
+  "version": "0.0.1",
+  "description": "Backbone Skeleton ",
+  "dependencies": {
+    "gulp": "~3.4.0",
+    "gulp-util": "~2.2.14",
+    "gulp-concat": "~2.1.7",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-csslint": "~0.1.3",
+    "gulp-uglify": "~0.2.1",
+    "gulp-jshint": "~1.5.0",
+    "gulp-bower": "~0.0.3",
+  },
+  "devDependencies": {
+    "karma": "~0.12",
+    "karma-cli": "~0.0.4",
+    "karma-jasmine": "~0.2.1",
+    "karma-requirejs": "~0.2.1",
+    "karma-phantomjs-launcher": "~0.1.2",
+    "karma-coverage": "~0.2.1",
+    "gulp-minify-html": "~0.1.1",
+    "gulp-requirejs": "~0.1.3",
+    "gulp-jscs": "~0.3.2",
+    "gulp-jst": "~0.1.1"
+  },
+}
