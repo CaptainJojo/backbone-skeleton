@@ -23,5 +23,5 @@
     "gulp-requirejs": "~0.1.3",
     "gulp-jscs": "~0.3.2",
     "gulp-jst": "~0.1.1"
-  },
+  }
 }
