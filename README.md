@@ -1,4 +1,4 @@
-Backbone Skeleton RequireJs
+Backbone Skeleton RequireJs [![Build Status](https://travis-ci.org/jonathanj33/backbone-skeleton.svg?branch=master)](https://travis-ci.org/jonathanj33/backbone-skeleton) 
 -------------
 
 Complete skeleton of a project using Backbone requireJs and tested via Jasmine Karma. 
