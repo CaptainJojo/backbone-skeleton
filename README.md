@@ -1,4 +1,4 @@
-Backbone Skeleton RequireJs [![Build Status](https://travis-ci.org/jonathanj33/backbone-skeleton.svg?branch=master)](https://travis-ci.org/jonathanj33/backbone-skeleton) 
+Backbone Skeleton RequireJs [![Build Status](https://travis-ci.org/jonathanj33/backbone-skeleton.svg?branch=master)](https://travis-ci.org/jonathanj33/backbone-skeleton) [![Dependency Status](https://david-dm.org/jonathanj33/backbone-skeleton.png)](https://david-dm.org/jonathanj33/backbone-skeleton) [![devDependency Status](https://david-dm.org/jonathanj33/backbone-skeleton/dev-status.png)](https://david-dm.org/jonathanj33/backbone-skeleton#info=devDependencies)
 -------------
 
 Complete skeleton of a project using Backbone requireJs and tested via Jasmine Karma. 
